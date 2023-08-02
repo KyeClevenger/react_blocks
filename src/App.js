@@ -1,3 +1,5 @@
+// collaborated with eric, daisy, anthony, viviana, richard, josh, and christian
+
 import React from 'react';
 import './App.css';
 import Header from './Components/Header';
